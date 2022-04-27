@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RNNSNTS
-- 👀 I’m interested in ...
+- 👀 I’m interested in Data analysis and Business Intelligence
 - 🌱 I’m currently learning python and R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me renansampaio@id.uff.br
