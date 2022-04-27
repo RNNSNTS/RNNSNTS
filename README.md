@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RNNSNTS
+- 👋 Hi, I’m Renan Sampaio
 - 👀 I’m interested in Data analysis and Business Intelligence
 - 🌱 I’m currently learning python and R
 - 💞️ I’m looking to collaborate on ...
